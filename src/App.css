@@ -23,6 +23,19 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.homeDetails{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+  margin-right: 60px;
+  margin-left:70;
+  
+}
+.card-container {
+  text-align: center;
+ 
+}
 
 .App-link {
   color: #61dafb;

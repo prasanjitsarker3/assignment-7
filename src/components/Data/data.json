@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Cristiano Ronaldo",
+      "price": "$120M/Month",
+      "img": "https://i.ibb.co/HBsN7p8/CR7.jpg" 
+    },
+    {
+      "name": "Rolandinho",
+      "price": "$130M/Month",
+      "img": "https://i.ibb.co/gDbGWmg/Rolandindo.jpg" 
+    },
+    {
+      "name": "Lionel Messi",
+      "price": "$125M/Month",
+      "img": "https://i.ibb.co/7rWXqB6/messi-1.jpg"
+    },
+    {
+      "name": "Zinedine Zidnane",
+      "price": "$125M/Month",
+      "img": "https://i.ibb.co/ZB8C64M/images-1.jpg"  
+    },
+    {
+      "name": "Carles Puyol",
+      "price": "$125M/Month",
+      "img":"https://i.ibb.co/c3b2jLK/Unnamed.jpg" 
+    },
+    {
+      "name": "Mercelo Vieira",
+      "price": "$115M/Month",
+      "img":"https://i.ibb.co/hV3DcSF/Mercelo.jpg" 
+    },
+    {
+      "name": "Zalatan Ibrahimovic",
+      "price": "$122M/Month",
+      "img": "https://i.ibb.co/GVCGNMS/Zlatan-Ibrahimovic.jpg"
+    },
+    {
+      "name": "Sergio Ramos",
+      "price": "$112M/Month",
+      "img": "https://i.ibb.co/DCxC7cn/Ramos-1.jpg"
+    },
+    {
+      "name": "Angel Di Maria",
+      "price": "$119M/Month",
+      "img": "https://i.ibb.co/HY7FHNL/Images-2.jpg" 
+    }
+  ]
